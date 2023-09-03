@@ -1,4 +1,4 @@
-if getgenv().test = "wjahgiat" then
+if getgenv().test == "wjahgiat" then
 return "yektste"
 else
 return "nope"
